@@ -1,5 +1,4 @@
-import java.util.Scanner;
-import java.util.Random;
+
 public class BaiTapVeMang {
     // Khai bao mang so nguyen
     float a[];
